@@ -30,6 +30,7 @@ public class PocketCalculator {
 		System.out.println(number1 + "*" + number2 + "=" + (number1*number2));
 		System.out.println(number1 + "/" + number2 + "=" + (number1/number2));
 		System.out.println(number1 + "%" + number2 + "=" + (number1%number2));
+		System.out.println("");
 		
 		// Step 4 ask the user for two operands and assign them to double.
 		System.out.println("Now let's try with doubles: ");
@@ -45,6 +46,7 @@ public class PocketCalculator {
 		System.out.println(double1 + "*" + double2 + "=" + (double1*double2));
 		System.out.println(double1 + "/" + double2 + "=" + (double1/double2));
 		System.out.println(double1 + "%" + double2 + "=" + (double1%double2));
+		System.out.println("");
 		
 		
 		// Step 6, close the scanner and say goodbye to user!
